@@ -1,0 +1,36 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Lucky",
+      "breed": "Pitbull",
+      "image": "https://www.thesprucepets.com/thmb/X1wMfp7XLr491D_RIOS_G3NRsqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pitbull-dog-breeds-4843994-hero-db6922b6c8294b45b19c07aff5865790.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Looty",
+      "breed": "Collie",
+      "image": "https://assets.orvis.com/is/image/orvisprd/Collie?wid=1023&src=is($object$:7-3)"
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "Puffy",
+      "breed": "Siamese",
+      "image": "https://excitedcats.com/wp-content/uploads/2021/10/siamese-kitten_Esin-Deniz-Shutterstock.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Doofy",
+      "breed": "Sphinx",
+      "image": "https://www.purina.co.uk/sites/default/files/2021-02/CAT%20HERO_0026_Sphynx.jpg"
+    },
+    {
+      "name": "Puffy",
+      "breed": "Himalayan",
+      "image": "https://www.litter-robot.com/media//himalayan-cat12.png",
+      "id": 3
+    }
+  ]
+}
